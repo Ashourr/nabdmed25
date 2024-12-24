@@ -1,0 +1,140 @@
+.contact {
+  padding: 50px 0;
+}
+.contact.en {
+  direction: rtl;
+}
+.contact a{
+  text-decoration: none;
+  margin-bottom: 20px;
+  display: block;
+}
+.back {
+  text-decoration: none;
+}
+.contact h3 {
+  /* text-align: center; */
+  font-size: 40px;
+  color: var(--main);
+  margin-bottom: 30px;
+}
+.contact h3 span {
+  color: rgb(17 114 186);
+}
+.contact h6{
+  margin: 0 10px;
+}
+.contact .map {
+  height: 450px;
+  margin-bottom: 50px;
+}
+.contact .cont {
+  background-color: rgb(221 221 221);
+  padding: 40px 20px;
+  margin-bottom: 30px;
+}
+.contact .cont h5 {
+  color: var(--main);
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.contact .cont h5 span {
+  color: rgb(17 114 186);
+}
+.contact .cont .cont-itme {
+  display: flex;
+  margin-bottom: 15px;
+}
+.contact .cont .cont-itme h6 {
+  font-size: 19px;
+  font-weight: 700;
+}
+.contact .cont .cont-itme p {
+  margin-left: 10px;
+  font-size: 17px;
+  font-weight: 500;
+}
+.contact form {
+  background-color: rgb(221 221 221);
+  padding: 40px 40px;
+}
+.contact form h5 {
+  font-size: 30px;
+  margin-bottom: 30px;
+  color: var(--main);
+}
+.contact form h5 span {
+  color: rgb(17 114 186);
+}
+.contact form .div1 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.div2{
+  width: 48%;
+}
+.contact form .div1 input {
+  width: 100%;
+  outline: none;
+  border: none;
+  padding: 10px;
+  background-color: white;
+  margin: 10px 0;
+}
+.contact form input {
+  width: 100%;
+  outline: none;
+  border: none;
+  padding: 10px;
+  background-color: white;
+  margin: 10px 0;
+}
+.contact form textarea {
+  width: 100%;
+  height: 100px;
+  outline: none;
+  border: none;
+  padding: 10px;
+  background-color: white;
+  margin: 10px 0;
+}
+.contact form button {
+  width: 100%;
+  outline: none;
+  border: 2px solid rgb(17 114 186);
+  border-radius: 8px; 
+  padding: 10px;
+  color: white;
+  background: rgb(17 114 186);
+  font-size: 19px;
+  font-weight: 400;
+  margin-top: 20px;
+  transition: 0.4s;
+}
+.contact form button:hover {
+  background-color: transparent;
+  color: rgb(17 114 186);
+}
+
+@media (max-width: 990px) {
+  .contact form .div1 {
+    display: block;
+  }
+  .div2{
+    width: 100%;
+  }
+  .contact form {
+    padding: 40px 25px;
+  }
+}
+.contactheder{
+  padding: 100px 0;
+  margin: 0;
+  background: #2f333a;
+  color: white;
+  text-align: center;
+} 
+.contactheder span{
+  color: #ff7004;
+}

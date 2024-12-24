@@ -1,0 +1,43 @@
+.pagenotfont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* padding: 100px 0; */
+  text-align: center;
+  min-height: 100vh;
+}
+.pagenotfont.en {
+  direction: rtl;
+}
+.pagenotfont h1 {
+  font-size: 140px;
+  color: #00000045;
+}
+.pagenotfont h3 {
+  margin-top: -33px;
+  font-size: 33px;
+  color: #1172ba;
+}
+.pagenotfont h6 {
+  font-size: 18px;
+  /* margin-top: 23px; */
+  color: black;
+}
+.pagenotfont a {
+  text-decoration: none;
+  background: #1172ba;
+  padding: 10px 18px;
+  margin-top: 13px;
+  display: block;
+  /* width: 137px; */
+  color: white;
+  font-size: 20px;
+  border: 2px solid #1172ba;
+  border-radius: 10px;
+  transition: 0.4s;
+}
+.pagenotfont a:hover {
+  background-color: transparent;
+  color: #1172ba;
+}
