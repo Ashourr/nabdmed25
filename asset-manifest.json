@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nabdmed25/static/css/main.4b983694.css",
+    "main.js": "/nabdmed25/static/js/main.68e84c1c.js",
+    "static/media/section.jpeg": "/nabdmed25/static/media/section.52c413399272d175ceba.jpeg",
+    "static/media/Frame 1597883457.png": "/nabdmed25/static/media/Frame 1597883457.80e0b3d8c40e4d7988e2.png",
+    "static/media/heder.png": "/nabdmed25/static/media/heder.2c70a1544aec9b72111f.png",
+    "static/media/login.png": "/nabdmed25/static/media/login.2de0d2a3e774766f61a3.png",
+    "static/media/BwModelicaSS01-ExtraBold.otf": "/nabdmed25/static/media/BwModelicaSS01-ExtraBold.f84cb95a4e401c7e162a.otf",
+    "static/media/BwModelicaSS01-Bold.otf": "/nabdmed25/static/media/BwModelicaSS01-Bold.48f34413ec8613a2836c.otf",
+    "static/media/BwModelicaSS01-Medium.otf": "/nabdmed25/static/media/BwModelicaSS01-Medium.3d7dbc53be1851651751.otf",
+    "static/media/BwModelicaSS01-Regular.otf": "/nabdmed25/static/media/BwModelicaSS01-Regular.b97f5ee39875a6e4c47f.otf",
+    "static/media/BwModelicaSS01-Light.otf": "/nabdmed25/static/media/BwModelicaSS01-Light.424d10b8870d5ca77c21.otf",
+    "static/media/slick.svg": "/nabdmed25/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/nabdmed25/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/nabdmed25/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/nabdmed25/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/nabdmed25/index.html",
+    "main.4b983694.css.map": "/nabdmed25/static/css/main.4b983694.css.map",
+    "main.68e84c1c.js.map": "/nabdmed25/static/js/main.68e84c1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b983694.css",
+    "static/js/main.68e84c1c.js"
+  ]
+}
